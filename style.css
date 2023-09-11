@@ -1,13 +1,14 @@
 h1{
-  background-color: blue;
-  color: red;
+  background-color: rgb(34, 34, 181);
+  color: rgb(237, 18, 18);
   text-align: center;
-  padding: 10%;
+  padding:4%;
   margin-top: 0;
+  font-size: bigger;
 }
 
 body {
   margin: 0;
-  background-color: lightgray;
+  background-color: rgba(251, 249, 249, 0);
   font-family: sans-serif;
 }
