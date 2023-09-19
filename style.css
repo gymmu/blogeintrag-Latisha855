@@ -11,6 +11,12 @@ body {
   background-color: rgba(5, 244, 236, 0.477);
   font-family: sans-serif;
 }
+.img-center{
+  text-align: center;
+}
+.img-center > img {
+  width: 60%;
+}
 /* Zentriere alle Elemente in dem Container, setze die Höhe und die Breite fest. */
 .container-with-bg {
   display: flex;
