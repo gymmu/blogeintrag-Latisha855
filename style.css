@@ -5,6 +5,9 @@ h1{
   margin-top: 0;
   font-size: bigger;
 }
+h3{ 
+  text-align:center;
+}
 
 body { 
   margin: 0;
