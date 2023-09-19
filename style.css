@@ -1,13 +1,14 @@
 h1{
+  color:black;
   text-align: center;
   padding:4%;
   margin-top: 0;
   font-size: bigger;
 }
 
-body {
+body { 
   margin: 0;
-  background-color: rgba(251, 249, 249, 0);
+  background-color: rgba(5, 244, 236, 0.477);
   font-family: sans-serif;
 }
 /* Zentriere alle Elemente in dem Container, setze die Höhe und die Breite fest. */
