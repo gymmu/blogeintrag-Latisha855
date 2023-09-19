@@ -15,8 +15,9 @@ body {
   text-align: center;
 }
 .img-center > img {
-  width: 60%;
+  width: 40%;
 }
+
 /* Zentriere alle Elemente in dem Container, setze die Höhe und die Breite fest. */
 .container-with-bg {
   display: flex;
